@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there 👋
+Welcome to my GitHub profile!
 
-<!--
-**jdemos/jdemos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm an experienced Solutions Engineer currently working at GitHub. Prior to here, I had a brief stint at a FinTech start-up ([Modern Treasury](https://www.moderntreasury.com/)), and before that I spent 8 years at Twitter supporting the enterprise side of their [Developer Platform](https://developer.x.com/en). I'm based in sunny Denver, CO ☀️
 
-Here are some ideas to get you started:
+- :computer: My go to programming language is Python but I actually started with Ruby years ago.
+- ⚡ Fun fact: [Jekyll](https://jekyllrb.com/) is one of my favorite frameworks for building peformant, static websites.
+- 🏃 I enjoy trail running and ran my first (_and only_) trail ultramarathon in 2019.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact Me
+- 👔 [LinkedIn](https://www.linkedin.com/in/johntdemos/)
+- 🐦 [Twitter](https://www.twitter.com/johnd)
